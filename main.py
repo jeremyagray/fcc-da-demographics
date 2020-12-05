@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from unittest import main
 
 import demographic_data_analyzer

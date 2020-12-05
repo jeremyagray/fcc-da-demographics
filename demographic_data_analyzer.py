@@ -111,7 +111,7 @@ def calculate_demographic_data(print_data=True):
             "Percentage of rich among those who work fewest hours:"
             f" {rich_percentage}%"
         )
-        print("Country with highest percentage of rich: {highest_earning_country}")
+        print(f"Country with highest percentage of rich: {highest_earning_country}")
         print(
             "Highest percentage of rich people in country:"
             f" {highest_earning_country_percentage}%"
